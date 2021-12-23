@@ -103,7 +103,7 @@
     display: inline-block;
     width: 100%;
     height: 280px;
-    background: url('../gambar/ken.png');
+    background: url('ken.png');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -178,17 +178,17 @@
   }
   
   .pilih #batu {
-    background: url('../gambar/player-batu.png') center center no-repeat;
+    background: url('player-batu.png') center center no-repeat;
     background-size: contain;
   }
   
   .pilih #gunting {
-    background: url('../gambar/player-gunting.png') center center no-repeat;
+    background: url('player-gunting.png') center center no-repeat;
     background-size: contain;
   }
   
   .pilih #kertas {
-    background: url('../gambar/player-kertas.png') center center no-repeat;
+    background: url('player-kertas.png') center center no-repeat;
     background-size: contain;
   }
   
