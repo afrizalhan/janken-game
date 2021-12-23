@@ -112,7 +112,7 @@ function result(who) {
         case "player":
             skorPlayer++;
             localStorage.setItem("skorPlayer", skorPlayer);
-            displaySkorKen.innerHTML = skorPlayer;
+            displaySkorPlayer.innerHTML = skorPlayer;
             console.log("Anda Menang");
             break;
         default:
